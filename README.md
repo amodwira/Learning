@@ -1,0 +1,1 @@
+The code is designed to calculate the AHP weights, consistency index, and ratio from a pairwise comparison matrix. It checks for the validity of the matrix, including ensuring it is square, contains positive values
